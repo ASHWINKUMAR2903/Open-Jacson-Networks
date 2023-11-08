@@ -18,8 +18,8 @@ Visual components and Python
 
 
 ## Experiment:
-![image](https://github.com/ASHWINKUMAR2903/Open-Jacson-Networks/assets/119407186/4bb1baa5-69a5-463e-9704-dde1dc1ed805)
-![image](https://github.com/ASHWINKUMAR2903/Open-Jacson-Networks/assets/119407186/d7564e1a-ed2d-4177-bcf2-42a60dec79c7)
+<img src="https://github.com/ASHWINKUMAR2903/Open-Jacson-Networks/assets/119407186/4bb1baa5-69a5-463e-9704-dde1dc1ed805" width="500" height="500">         
+<img src="https://github.com/ASHWINKUMAR2903/Open-Jacson-Networks/assets/119407186/d7564e1a-ed2d-4177-bcf2-42a60dec79c7" width="500" height="500">         
 
 ### NAME : A.ASHWIN KUMAR
 ### REG.NO : 212222100006
