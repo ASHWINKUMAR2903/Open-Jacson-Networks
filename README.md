@@ -1,4 +1,4 @@
-## EXP NO : 1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; DATE : 25.08.2023
+## EXP NO : 6 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; DATE : 03.11.2023
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
